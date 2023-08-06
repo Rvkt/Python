@@ -1,0 +1,2 @@
+# Print without new lines
+
